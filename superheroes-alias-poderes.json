@@ -1,0 +1,82 @@
+[
+  {
+    "alias": "Wonder Woman",
+    "poderes": [
+      "fuerza sobrehumana",
+      "velocidad",
+      "vuelo",
+      "agilidad"
+    ]
+  },
+  {
+    "alias": "Superman",
+    "poderes": [
+      "fuerza sobrehumana",
+      "velocidad",
+      "vuelo",
+      "visión de calor"
+    ]
+  },
+  {
+    "alias": "Spider-Man",
+    "poderes": [
+      "sentido arácnido",
+      "agilidad sobrehumana",
+      "lanzamiento de telarañas"
+    ]
+  },
+  {
+    "alias": "Hulk",
+    "poderes": [
+      "fuerza descomunal",
+      "regeneración celular"
+    ]
+  },
+  {
+    "alias": "Flash",
+    "poderes": [
+      "velocidad sobrehumana",
+      "viaje en el tiempo"
+    ]
+  },
+  {
+    "alias": "Fénix",
+    "poderes": [
+      "telepatía",
+      "telequinesis",
+      "fuerza cósmica"
+    ]
+  },
+  {
+    "alias": "Capitana Marvel",
+    "poderes": [
+      "fuerza sobrehumana",
+      "vuelo",
+      "energía cósmica"
+    ]
+  },
+  {
+    "alias": "Capitán América",
+    "poderes": [
+      "fuerza sobrehumana",
+      "agilidad",
+      "escudo indestructible"
+    ]
+  },
+  {
+    "alias": "Batman",
+    "poderes": [
+      "inteligencia",
+      "entrenamiento en artes marciales",
+      "tecnología avanzada"
+    ]
+  },
+  {
+    "alias": "Aquaman",
+    "poderes": [
+      "fuerza sobrehumana",
+      "habilidades acuáticas",
+      "comunicación con la vida marina"
+    ]
+  }
+]
